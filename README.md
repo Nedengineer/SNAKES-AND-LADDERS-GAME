@@ -12,5 +12,5 @@ This is the game between computer and the user. Beginning of the game, the playe
 
 The interactivity is like the genuine one. Here, the player likewise gets one more opportunity to roll the dice at whatever point he/she gets 6 number.
 
-#SCREENSHOTS:
+
 
